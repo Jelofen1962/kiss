@@ -47,6 +47,7 @@ p {
 }
 
 button {
+    -webkit-tap-highlight-color: #00000000;
     font-family: 'SF';
     background: rgb(255, 64, 128);
     color: white;
